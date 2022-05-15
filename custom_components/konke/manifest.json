@@ -1,9 +1,9 @@
 {
-"domain": "konke",
+"domain": "homeassistant-konke",
 "name": "控客小K",
 "version": "1.0",
-"documentation": "https://github.com/jedmeng/homeassistant-konke",
+"documentation": "https://github.com/ming4J/homeassistant-konke",
 "dependencies": [],
-"codeowners": ["@jedmeng"],
+"codeowners": ["@ming4J"],
 "requirements": ["pykonkeio==2.1.7"]
 }

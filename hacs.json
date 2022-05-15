@@ -1,5 +1,5 @@
  {
-  "name": "Konke",
+  "name": "homeassistant-konke",
   "country": "CN",
   "render_readme": false,
   "domains": ["sensor","swtich"]
